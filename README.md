@@ -5,7 +5,7 @@ I like experimenting with new technologies, building small/big projects, and occ
 Here's a list of things I currently keep myself busy with:
 
 - 👩🏻‍💻 Working as a Sr. Software Engineer
-- 🛠️ Building **[Bhaavtaal](https://bhaavtaal.com)**, This will change how people buy electronics from online retailers in 🇮🇳
+- 🛠️ Building **[BhaavTaal](https://bhaavtaal.com)**. BhaavTaal will change how people buy electronics from online retailers in 🇮🇳
 
 <hr>
 <p align="center">
