@@ -14,10 +14,4 @@ Here's a list of things I currently keep myself busy with:
     <a href="mailto:parikhparth23@tutamail.com" alt="Contact me"><img src="https://github.com/parikhparth23/parikhparth23/blob/main/readme_images/icons8-mail-96.png" width="40" height="40"></a>
     <a href="ParthParikh_resume.pdf" alt="resume" target='_blank'><img src="https://github.com/parikhparth23/parikhparth23/blob/main/readme_images/icons8-about-96.png" width="40" height="40"></a>
   </p>
-
-  <p align="center">
-    <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=parikhparth23">
-    </a>
-  </p>
 </p>
