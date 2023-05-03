@@ -1,10 +1,8 @@
-<img src="https://github.com/parikhparth23/parikhparth23/blob/main/readme_images/Parth%20Parikh.png" alt="Hero image">
-
 I like experimenting with new technologies, building small/big projects, and occassionally joining hackathons. 🚀
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a Sr. Software Engineer
+- 👩🏻‍💻 Working as a Staff. Software Engineer
 - 👩🏻‍💻 Exploring different frameworks, and programming languages
 
 <hr>
