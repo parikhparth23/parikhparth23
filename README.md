@@ -2,7 +2,7 @@ I like experimenting with new technologies, building small/big projects, and occ
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a Staff. Software Engineer
+- 👩🏻‍💻 Working as a Staff Software Engineer
 - 👩🏻‍💻 Exploring different frameworks, and programming languages
 
 <hr>
